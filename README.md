@@ -14,6 +14,6 @@ Move-Extension <--Extension "File Extension"> <--Folder "Folder Name"> [--Help]
 
 --Help           : Displays this help message.
 
-+ Do NOT use ^<^> and [] in the arguments. ^<^> means required, and [] means optional.
++ Do NOT use <> and [] in the arguments. <> means required, and [] means optional.
 + If the specified folder does not exist, a new folder with the same name will be created.
 + If you have any problems with this, email me at kylevuvn2010@gmail.com.
